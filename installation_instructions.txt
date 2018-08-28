@@ -1,0 +1,17 @@
+install node
+$ curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+$ sudo apt-get install -y nodejs
+
+install react native
+$ npm install -g create-react-native-app
+
+create app
+$ create-react-native-app AwesomeProject
+$ cd AwesomeProject
+$ npm start
+
+
+
+
+
+
